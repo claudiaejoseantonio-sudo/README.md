@@ -4,30 +4,24 @@
 Olá, eu sou Cláudia Ramos 👋
 
 Profissional com experiência em PMO, Administração de Contratos, Supply Chain, Governança e Relacionamento com Stakeholders.
-
 Atualmente desenvolvendo competências em Data Analytics, Business Intelligence e Gestão Orientada por Dados, aplicando técnicas de análise, tratamento de dados e construção de indicadores para apoio à tomada de decisão.
 
 
 ## Áreas de Atuação
 
-Gestão de Projetos (PMO)
-Administração de Contratos
-Supply Chain
-Governança e Compliance
-Relacionamento com Clientes Internos e Externos
+Gestão de Projetos (PMO) |
+Administração de Contratos |
+Supply Chain |
+Governança e Compliance |
+Relacionamento com Clientes Internos e Externos |
 Business Intelligence
 
 
 ## Gestão e Processos
 
-SAP
-SAP Ariba
-SAP FIORI
-SharePoint
-CRM
-DocuSign
-MS Project
-MS Planner
+| SAP | SAP Ariba | SAP FIORI |
+| SharePoint | CRM | DocuSign |
+| MS Project | MS Planner
 
 
 ## Atualmente estudando Data Analytics, desenvolvendo projetos de:
